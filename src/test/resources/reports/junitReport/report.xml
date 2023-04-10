@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="68.2197">
+<testcase classname="Checking and operating the all buttons of calculator application" name="user go to the application and checking the additon values added or not" time="20.91647">
+<system-out><![CDATA[Given user shoud be in calculator page......................................passed
+When user add the single digit values.......................................passed
+And user add the double digit values........................................passed
+And user add the triple digit values........................................passed
+Then user add the four digit values.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Checking and operating the all buttons of calculator application" name="user checking the sutraction of values" time="12.420754">
+<system-out><![CDATA[Given user shoud be in calculator page......................................passed
+When user subtract the single digit value...................................passed
+And user substract the double digit value...................................passed
+Then user substract the four digit value....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Checking and operating the all buttons of calculator application" name="user checking the multiplying of values" time="13.957982">
+<system-out><![CDATA[Given user shoud be in calculator page......................................passed
+When user multiply the single digit value...................................passed
+And user multiply the double digit value....................................passed
+Then user mutiply the double digit with point values........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Checking and operating the all buttons of calculator application" name="user checking the division of values" time="12.711346">
+<system-out><![CDATA[Given user shoud be in calculator page......................................passed
+When user divide the values of single digit.................................passed
+And user divide the values of double digit..................................passed
+And user divide the values of triple digit..................................passed
+Then user divide the values of four digit...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Checking and operating the all buttons of calculator application" name="user checking to click the buttons of the application" time="8.213148">
+<system-out><![CDATA[Given user shoud be in calculator page......................................passed
+When user click to check the dot button.....................................passed
+Then user click to check the clear enter button CE..........................passed
+]]></system-out>
+</testcase>
+</testsuite>

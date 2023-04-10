@@ -1,0 +1,365 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 13950475400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user shoud be in calculator page",
+            "match": {
+              "location": "Cals.user_shoud_be_in_calculator_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-04-09T18:11:44.384Z",
+        "line": 5,
+        "name": "user go to the application and checking the additon values added or not",
+        "description": "",
+        "id": "checking-and-operating-the-all-buttons-of-calculator-application;user-go-to-the-application-and-checking-the-additon-values-added-or-not",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1993124900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user add the single digit values",
+            "match": {
+              "location": "Cals.user_add_the_single_digit_values()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 911973700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user add the double digit values",
+            "match": {
+              "location": "Cals.user_add_the_double_digit_values()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1138562700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user add the triple digit values",
+            "match": {
+              "location": "Cals.user_add_the_triple_digit_values()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2829942900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user add the four digit values",
+            "match": {
+              "location": "Cals.user_add_the_four_digit_values()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 9089379200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user shoud be in calculator page",
+            "match": {
+              "location": "Cals.user_shoud_be_in_calculator_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-04-09T18:12:05.389Z",
+        "line": 13,
+        "name": "user checking the sutraction of values",
+        "description": "",
+        "id": "checking-and-operating-the-all-buttons-of-calculator-application;user-checking-the-sutraction-of-values",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 678547000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user subtract the single digit value",
+            "match": {
+              "location": "Cals.user_subtract_the_single_digit_value()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 722800500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user substract the double digit value",
+            "match": {
+              "location": "Cals.user_substract_the_double_digit_value()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1922262800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user substract the four digit value",
+            "match": {
+              "location": "Cals.user_substract_the_four_digit_value()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 9660781500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user shoud be in calculator page",
+            "match": {
+              "location": "Cals.user_shoud_be_in_calculator_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-04-09T18:12:17.812Z",
+        "line": 19,
+        "name": "user checking the multiplying of values",
+        "description": "",
+        "id": "checking-and-operating-the-all-buttons-of-calculator-application;user-checking-the-multiplying-of-values",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 831447300,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user multiply the single digit value",
+            "match": {
+              "location": "Cals.user_multiply_the_single_digit_value()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1050153900,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user multiply the double digit value",
+            "match": {
+              "location": "Cals.user_multiply_the_double_digit_value()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2406685100,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user mutiply the double digit with point values",
+            "match": {
+              "location": "Cals.user_mutiply_the_double_digit_with_point_values()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 8479057200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user shoud be in calculator page",
+            "match": {
+              "location": "Cals.user_shoud_be_in_calculator_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-04-09T18:12:31.772Z",
+        "line": 25,
+        "name": "user checking the division of values",
+        "description": "",
+        "id": "checking-and-operating-the-all-buttons-of-calculator-application;user-checking-the-division-of-values",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 583803900,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user divide the values of single digit",
+            "match": {
+              "location": "Cals.user_divide_the_values_of_single_digit()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 616372600,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "user divide the values of double digit",
+            "match": {
+              "location": "Cals.user_divide_the_values_of_double_digit()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 981468100,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "user divide the values of triple digit",
+            "match": {
+              "location": "Cals.user_divide_the_values_of_triple_digit()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2037519300,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "user divide the values of four digit",
+            "match": {
+              "location": "Cals.user_divide_the_values_of_four_digit()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 7365262800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user shoud be in calculator page",
+            "match": {
+              "location": "Cals.user_shoud_be_in_calculator_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-04-09T18:12:44.486Z",
+        "line": 32,
+        "name": "user checking to click the buttons of the application",
+        "description": "",
+        "id": "checking-and-operating-the-all-buttons-of-calculator-application;user-checking-to-click-the-buttons-of-the-application",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 462472300,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "user click to check the dot button",
+            "match": {
+              "location": "Cals.user_click_to_check_the_dot_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 377806500,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "user click to check the clear enter button CE",
+            "match": {
+              "location": "Cals.user_click_to_check_the_clear_enter_button_CE()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Checking and operating the all buttons of calculator application",
+    "description": "",
+    "id": "checking-and-operating-the-all-buttons-of-calculator-application",
+    "keyword": "Feature",
+    "uri": "file:/C:/Users/pavithra/eclipse-workspace/Calcul/src/test/resources/features/login.features",
+    "tags": []
+  }
+]
